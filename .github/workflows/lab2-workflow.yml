@@ -10,7 +10,7 @@ on:
 
       custom_message:
         type: string
-        required; true
+        required: true
         description: Enter a custom message
 
 jobs:
